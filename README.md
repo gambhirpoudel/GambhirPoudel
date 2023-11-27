@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Gambhir Poudel
-![](https://cdn.discordapp.com/attachments/1036120891857305661/1167479162517340251/6c0f9b95746151.5e9ecde69599e.gif?ex=654e46b3&is=653bd1b3&hm=d77938a61f70c1b603eb6b2f17d07a21479bde8bfb8a6f6ec62a4bda0b52dba7&)
+![](https://media.discordapp.net/attachments/1036120891857305661/1178520867903381604/Debbie_Balboa.gif?ex=65767216&is=6563fd16&hm=c8a91d16e2b8921b3843930e97e6880d792eb467d850341ec4f20ae80afd6bdb&=&width=562&height=316)
 # 💫 About Me:
 Dedicated BCA student passionate about computer science and technology, excelling in academics with strong problem-solving skills. Effective team player with up-to-date tech knowledge, aspiring to specialize in software engineering or data science. Committed to excellence and eager to contribute to the tech industry's future.
 
